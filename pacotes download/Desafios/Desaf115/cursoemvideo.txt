@@ -1,0 +1,9 @@
+César;56
+Cleo;56
+Carlos;2
+Maria ;5
+    Jose ;32
+Pedro;25
+Cesar;56
+César ;56
+marcos ;56
